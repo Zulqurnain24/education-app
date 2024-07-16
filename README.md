@@ -1,3 +1,3 @@
 # education_app
 
-A new Flutter project.
+An app to demonstrate the bloc pattern with TDD
